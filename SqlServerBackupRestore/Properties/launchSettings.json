@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SqlServerBackupRestore": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
